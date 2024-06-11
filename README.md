@@ -136,7 +136,6 @@ never have previously:
 xcode-select --install
 ```
 
-
 On Windows, you may need to download the [Microsoft C++ Build Tools for Visual
 Studio 2019](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=BuildTools&rel=16).
 See the [CVXPY Install](https://www.cvxpy.org/install/index.html#mac-os-x-windows-and-linux)
@@ -147,13 +146,3 @@ Then, try reinstalling via:
 ```bash
 pip install 'aif360[OptimPreproc]'
 ```
-
-
-#### Important Links 
-Databases
-3) https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
-
-Models
-1) https://github.com/sahilpasricja/shap
-2) https://github.com/amazon-science/fraud-dataset-benchmark/tree/main
-3) https://www.kaggle.com/code/gpreda/credit-card-fraud-detection-predictive-models
